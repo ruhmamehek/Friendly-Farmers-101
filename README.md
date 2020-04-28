@@ -110,7 +110,7 @@ repository.
 
 1. Celebrate!
 
-### help
+### Help
 Reach out to any of the developers in case of any issues/concerns
 
 Bug reports can be made on our github issues. If you think something isn't working, don't hesitate to reach out - it is probably us and not you!
